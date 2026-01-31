@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Product",
+        "children": [
+            {
+                "title": "Products",
+                "route": "product/index"
+            }
+        ]
+    },
+    {
+        "title": "SizeMaster",
+        "children": [
+            {
+                "title": "SizeMaster",
+                "route": "productSizeMaster/index"
+            }
+        ]
+    },
+    {
+        "title": "Slider",
+        "children": [
+            {
+                "title": "Slider",
+                "route": "slider/index"
+            }
+        ]
+    }
+
+]
